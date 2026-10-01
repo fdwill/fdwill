@@ -4,7 +4,7 @@ I'm an **Information Systems Engineer, Solution Architect, and Technology Leader
 
 My background spans **software development, solution architecture, cloud, databases, automation, DevOps, and enterprise infrastructure**, giving me an end-to-end perspective when designing and delivering technology solutions.
 
-I enjoy working at the intersection of **business, architecture, and technology** — understanding not only how to build a solution, but why it should be built, how its components should work together, and how it can create meaningful value.
+I enjoy working at the intersection of **business, architecture, and technology**, understanding not only how to build a solution, but why it should be built, how its components should work together, and how it can create meaningful value.
 
 I'm particularly interested in **cloud-native architectures, APIs, microservices, containers, DevOps practices, and AI/LLM-powered solutions**, exploring how these technologies can be combined to build scalable, maintainable, and intelligent systems.
 
@@ -19,7 +19,7 @@ C# / .NET · Python · JavaScript · PHP · Visual Basic · ASP · HTML · CSS
 Solution Architecture · APIs · REST · Microservices · Distributed Systems · Enterprise Integration
 
 **Cloud & Containers**  
-Cloud Computing · Cloud-Native Architecture · Containers · Docker · Containerized Applications
+Cloud Computing · Cloud-Native Architecture · Docker · Containerized Applications
 
 **DevOps & Automation**  
 DevOps · CI/CD · PowerShell · Bash · Infrastructure & Process Automation
@@ -31,7 +31,7 @@ Artificial Intelligence · Large Language Models (LLMs) · Generative AI · AI-p
 SQL Server · MySQL · MongoDB
 
 **Enterprise Infrastructure**  
-Windows Server · Ubuntu Server · Hyper-V · Exchange Server · SharePoint Server
+Windows Server · Hyper-V · Exchange Server · SharePoint Server · Ubuntu Server 
 
 ## 🔭 Areas of Interest
 
